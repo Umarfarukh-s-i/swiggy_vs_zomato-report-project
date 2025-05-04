@@ -26,7 +26,7 @@ Comparative Power BI analysis of Swiggy vs Zomato using key metrics like deliver
 **Visual Insights**
 
 - OrderValue by Cuisine (Donut Chart)
-![OrderValue by Cuisine](screenshots/order_value_by_cuisine.png)
+![OrderValue by Cuisine](screenshots/order_value_by_cuisine.PNG)
 
 - OrderValue by OrderDay (Pie Chart)
 ![OrderValue by OrderDay](screenshots/order_value_by_order_day.PNG)
